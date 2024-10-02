@@ -1,5 +1,11 @@
 # @core/sync-service
 
+## 0.6.3
+
+### Patch Changes
+
+- 841922d: Cover the processing of GET /shape with OpenTelemetry spans for improved observability.
+
 ## 0.6.2
 
 ### Patch Changes
